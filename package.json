@@ -7,5 +7,8 @@
     "build": "node build.js > ./deploy/index.html"
   },
   "author": "Jamie Owen <hello@jamieowen.com> (=)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
 }
