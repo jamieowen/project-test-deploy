@@ -1,0 +1,11 @@
+{
+  "name": "project-test-deploy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js > ./deploy/index.html"
+  },
+  "author": "Jamie Owen <hello@jamieowen.com> (=)",
+  "license": "ISC"
+}
