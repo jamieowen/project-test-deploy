@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js > ./deploy/index.html"
+    ""
+    "build": "node build.js > ./deploy/index.html",
+    "deploy": "node deploy.js"
   },
   "author": "Jamie Owen <hello@jamieowen.com> (=)",
   "license": "ISC",
